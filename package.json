@@ -1,0 +1,21 @@
+{
+  "name": "contact-me-template",
+  "version": "1.0.0",
+  "description": "<p>Fork repository and clone it</p> <pre>https://github.com/ibrahimdenizz/contact-me-template.git</pre> <p>Install dependencies</p> <pre> cd server/ &&npm install cd .. cd client/ && npm install </pre>",
+  "main": "index.js",
+  "scripts": {
+    "client": "cd client/ && npm start",
+    "server": "cd server/ && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimdenizz/contactMeTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimdenizz/contactMeTemplate/issues"
+  },
+  "homepage": "https://github.com/ibrahimdenizz/contactMeTemplate#readme"
+}
